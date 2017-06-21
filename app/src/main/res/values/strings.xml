@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Box Overlay</string>
+
+    <string name="add_overlay_xml_view">Add Overlay XML View</string>
+    <string name="add_overlay_code_view">Add Overlay Code View</string>
+    <string name="close">X</string>
+
+    <string name="content_description_adds_view_on_top_via_code">Adds view on top via code</string>
+    <string name="content_description_adds_view_on_top_via_xml">Adds view on top via XML</string>
+    <string name="content_description_image_header_port_view">Port view for head image</string>
+
+    <string name="bundle_key">Key</string>
+    <string name="bundle_key_xml">XML</string>
+    <string name="bundle_key_code">CODE</string>
+</resources>
+
+
+
